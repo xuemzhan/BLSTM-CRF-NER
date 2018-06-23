@@ -1,0 +1,25 @@
+丹麦政府	nt	O
+打起	v	O
+了	ul	O
+游戏	n	S-other
+的	uj	O
+主意	n	O
+，	x	O
+在	p	O
+Minecraft	eng	S-company
+游戏	n	S-other
+里	f	O
+建起	v	O
+了	ul	O
+1	m	O
+:	x	O
+1	m	O
+的	uj	O
+丹麦	ns	S-other
+世界	n	S-other
+。	x	O
+
+Minecraft	eng	S-company
+是	v	O
+一款	m	O
+沙盒	n	B-other

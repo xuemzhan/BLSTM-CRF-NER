@@ -1,0 +1,12 @@
+就	d	O
+像	v	O
+在	p	O
+游戏	n	S-other
+里	f	O
+用	p	O
+乐高	a	O
+方块	n	O
+进行	v	O
+组合	v	S-other
+和	c	O
+拼凑	v	O
